@@ -61,7 +61,7 @@
 
 <p align="center">
   <!-- Laptop -->
-  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkca__IfEN2rc1t6Aqak-tlc1MKXbA9RSj6hahhogswqxgA7NQW-BfqxUJ6tpzI6_qMPUeiLcOyACJtIZe0Q4ZHtT8Xy9k_JoqqCeh2TcNLxRX54hZ4fbCOO_LyblCcu2V3sKaz0WWHcB0UwSoWvwrvWC_RSzLBcYoNCvnVf2-6ZamHeUJ3FFviBzIBMkJqtwylhkU9qU-fuWtTpmypQIQzvs7uU3d6vmw=w1280"/>
+  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkfm9Ht4M9ViFZVZk90OrLegmLhgLVRShVfcUO-v50S9LGcJRPqRoh6tljE9ZufaUcFDfMHUsLidosSP8xGvebiD_Qj1TnI8AQUa6eaBYCs8FB6eYb9gAnnEKy32bJpcdDfX74mRwo8mCwhEBJbxqUA-YaP0g2ZcLzHqVlT5LCuIjsSzTcN3dhdg5B9f-HvSUWh_DiZNzS41niDal_3i2vwYo7E6UBMJyA=w1280"/>
   &nbsp;&nbsp;
   <!-- Phone -->
   <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkejDNX6ltmHGKVs8mEKO-FcTNCoYembHFdkTgu3IIajOQaobE42-KMKRkH9TCSITIo_YjvWzxxNC7UhAmoq7O4YcaiJtWwf4_QlBxSvGCTAjuccDnQlrCdiIrMJMYSRoTaQMNDOlnjUqm7J1ADfRojRi6EOFLq7v9v93fhI4wwR-3DTrf9x6UssNG4RA4GkrWQ0EmPwSHz048LOi0tnN-t4SNmeM-R-2cIIFEk=w1280"/>
