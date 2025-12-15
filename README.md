@@ -61,10 +61,10 @@
 
 <p align="center">
   <!-- Laptop -->
-  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkexManA2zXeuTADEsZzTP8tBKYPiwgFG3lPhvQHr-gejV-TvIkrxb_FeHngUTMIK4mMcXICrbhPrIrcvDsFwKNGrmsVDq2yiZ5bijHFutEtq3tKbqx83OZ015j4NwXzP7XOD-kwhQGU07gHQsl66EUljivHvc3O6IdtSAcuX8miCstwMi4s9fD-PqXo0ZKmOvCv82G36Pl577GsjYX1Z7LNXZfpQGlvAQ=w1280"/>
+  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkca__IfEN2rc1t6Aqak-tlc1MKXbA9RSj6hahhogswqxgA7NQW-BfqxUJ6tpzI6_qMPUeiLcOyACJtIZe0Q4ZHtT8Xy9k_JoqqCeh2TcNLxRX54hZ4fbCOO_LyblCcu2V3sKaz0WWHcB0UwSoWvwrvWC_RSzLBcYoNCvnVf2-6ZamHeUJ3FFviBzIBMkJqtwylhkU9qU-fuWtTpmypQIQzvs7uU3d6vmw=w1280"/>
   &nbsp;&nbsp;
   <!-- Phone -->
-  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkdEaE6K3s54ppZZtAuzyV09KcoBL-wqSX-DjtVh7OrfvF5VPR9YfMX30njRD188A4v_4FI7GRNDIpA0dQ_VnQv6hb4z1BesK-vtVAubmvogEOqVow5J0YwJW07Ws_Xu8cmvzYFt0g9mWzC1sGzq3anMoip5T01zODTGzc5o1LozZejZrsI4wJhJqdnSyzJrEKqo9tjdUphb5QYSshBCYlNEqpQr6QMRizxKPv8=w1280"/>
+  <img height="200px" src="https://lh3.googleusercontent.com/sitesv/AAzXCkejDNX6ltmHGKVs8mEKO-FcTNCoYembHFdkTgu3IIajOQaobE42-KMKRkH9TCSITIo_YjvWzxxNC7UhAmoq7O4YcaiJtWwf4_QlBxSvGCTAjuccDnQlrCdiIrMJMYSRoTaQMNDOlnjUqm7J1ADfRojRi6EOFLq7v9v93fhI4wwR-3DTrf9x6UssNG4RA4GkrWQ0EmPwSHz048LOi0tnN-t4SNmeM-R-2cIIFEk=w1280"/>
 </p>
 
 📌 Technologies: **Next.js**, **React**, **TypeScript**, **TailwindCSS**, **FastAPI**, **FastAPI**, **Node.js**,  **Python**, **TensorFlow**, **MongoDB**  
